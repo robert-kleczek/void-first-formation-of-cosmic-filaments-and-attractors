@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this repository package, please cite the manuscript and this versioned release."
+title: "Void-First Formation of Cosmic Filaments and Attractors: An Experimental DRND Test with SDSS, 2M++, and Peculiar-Velocity Data"
+version: "v.1.0.0"
+date-released: 2026-06-07
+authors:
+  - family-names: "Kleczek"
+    given-names: "Robert"
+    orcid: "https://orcid.org/0009-0009-9774-0446"
+license: "CC-BY-4.0"

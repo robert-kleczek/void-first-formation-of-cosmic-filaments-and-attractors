@@ -1,0 +1,79 @@
+{
+  "title": "Void-First Formation of Cosmic Filaments and Attractors: An Experimental DRND Test with SDSS, 2M++, and Peculiar-Velocity Data",
+  "version": "v.1.0.0",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "creators": [
+    {
+      "name": "Kleczek, Robert",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0009-9774-0446"
+    }
+  ],
+  "description": "Version v.1.0.0 of the GitHub-ready repository package void-first-formation-of-cosmic-filaments-and-attractors. Reproducible technical-preprint package testing a DRND-motivated void-first formation concept for cosmic filaments and attractors against SDSS void lensing, SDSS DR8 filament axes, Carrick/2M++ reconstructed velocity fields, SDSS PV, Cosmicflows-4 and SDSS/eBOSS RSD context. The package treats filaments as secondary compression ridges and attractors as convergence nodes of void-shell fronts. It explicitly separates prior void-growth, Dipole-Repeller and topological-skeleton phenomenology from the narrower proposed DRND mechanism: phase-degraded relational domains, MFPT-like transport bottlenecks and locked topological shell gain. It also separates JWST high-redshift local protostructures from mature void-bounded cosmic-web filaments, defining the falsification boundary as the early appearance of a global SDSS-like void-and-filament foam. It reports a robust void-shell radial filament-orientation anomaly and a conditional Carrick void-in-void monopole outflow, while preserving negative line-of-sight PV controls and explicit Lambda-CDM mock-comparison requirements.",
+  "keywords": [
+    "cosmic web",
+    "cosmic voids",
+    "filaments",
+    "peculiar velocities",
+    "SDSS",
+    "Cosmicflows-4",
+    "2M++",
+    "DRND",
+    "topological ejection",
+    "void-first cosmology",
+    "attractor formation",
+    "JWST",
+    "Lyman-alpha tomography",
+    "void lensing",
+    "void-first-formation-of-cosmic-filaments-and-attractors"
+  ],
+  "license": "cc-by-4.0",
+  "related_identifiers": [
+    {
+      "identifier": "https://doi.org/10.1093/mnras/stt2454",
+      "relation": "cites",
+      "resource_type": "publication-article"
+    },
+    {
+      "identifier": "https://doi.org/10.1093/mnras/stv2215",
+      "relation": "cites",
+      "resource_type": "publication-article"
+    },
+    {
+      "identifier": "https://doi.org/10.5281/zenodo.6824749",
+      "relation": "cites",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://doi.org/10.3847/1538-4357/ac94d8",
+      "relation": "cites",
+      "resource_type": "publication-article"
+    },
+    {
+      "identifier": "https://doi.org/10.1093/mnras/stv547",
+      "relation": "cites",
+      "resource_type": "publication-article"
+    },
+    {
+      "identifier": "https://doi.org/10.1111/j.1365-2966.2004.07661.x",
+      "relation": "cites",
+      "resource_type": "publication-article"
+    },
+    {
+      "identifier": "https://doi.org/10.1038/s41550-016-0036",
+      "relation": "cites",
+      "resource_type": "publication-article"
+    },
+    {
+      "identifier": "https://doi.org/10.1111/j.1365-2966.2011.18394.x",
+      "relation": "cites",
+      "resource_type": "publication-article"
+    },
+    {
+      "identifier": "https://doi.org/10.1103/PhysRevLett.95.171301",
+      "relation": "cites",
+      "resource_type": "publication-article"
+    }
+  ]
+}
