@@ -12,7 +12,7 @@
       "orcid": "0009-0009-9774-0446"
     }
   ],
-  "description": "Version v.1.0.0 of the GitHub repository package void-first-formation-of-cosmic-filaments-and-attractors. This reproducible technical-preprint package tests a DRND-motivated void-first formation concept for cosmic filaments and attractors against SDSS void lensing, SDSS DR8 filament axes, Carrick/2M++ reconstructed velocity fields, SDSS PV, Cosmicflows-4 and SDSS/eBOSS RSD context. The package treats filaments as secondary compression ridges and attractors as convergence nodes of void-shell fronts. It reports a robust void-shell radial filament-orientation anomaly and a conditional Carrick void-in-void monopole outflow, while preserving negative line-of-sight PV controls and explicit Lambda-CDM mock-comparison requirements. The results are presented as a falsifiable technical preprint and reproducibility package, not as a final proof that Lambda-CDM is falsified.",
+  "description": "Version v.1.0.0 of the GitHub repository package void-first-formation-of-cosmic-filaments-and-attractors. This record is the DRND II validation and reproducibility package for the void-first formation hypothesis of cosmic filaments and attractors. DRND II is an original research framework developed by Robert Kleczek; the present work is derived from that framework and applies it as an experimental observational concept. The package tests a DRND II-motivated void-first formation scenario against SDSS void lensing, SDSS DR8 filament axes, Carrick/2M++ reconstructed velocity fields, SDSS PV, Cosmicflows-4 and SDSS/eBOSS RSD context. The package treats filaments as secondary compression ridges and attractors as convergence nodes of void-shell fronts. It reports a robust void-shell radial filament-orientation anomaly and a conditional Carrick void-in-void monopole outflow, while preserving negative line-of-sight PV controls and explicit Lambda-CDM mock-comparison requirements. The results are presented as a falsifiable technical preprint and reproducibility package, not as a final proof that Lambda-CDM is falsified.",
   "keywords": [
     "cosmic web",
     "cosmic voids",
@@ -22,6 +22,8 @@
     "Cosmicflows-4",
     "2M++",
     "DRND",
+    "DRND II",
+    "DRND II validation package",
     "topological ejection",
     "void-first cosmology",
     "attractor formation",
